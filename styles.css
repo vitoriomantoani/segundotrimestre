@@ -136,7 +136,7 @@ body {
 
     .rodape {
     …
-    .container__botao:hover {
+    .container__botao:hover {O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-fundo);
     }-secundario);
@@ -170,7 +170,7 @@ body {
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-fundo);
     }
-    
+    O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.
     .container__botao:hover {
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-f:root {
@@ -188,7 +188,7 @@ body {
         
         .container__botao:hover {
             background-color: var(--botao-azul-efeito);
-            color: var(--cor-de-fundo);
+            color: var(--cor-de-O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.fundo);
         }
         undo);
     }
@@ -220,7 +220,7 @@ body {
         --cor-de-fundo: #00030C;
         --fonte-principal: 'Inter';
         --botao-azul-efeito: #3c92fa;
-    }
+    }O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.
     
     body {
     …    color: purple;
@@ -254,7 +254,7 @@ body {
 
     .rodape {
     …
-    .container__botao:hover {
+    .container__botao:hover {O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.
         background-color: var(--botao-azul-efeito);
         color: var(--cor-de-fundo);
     }
@@ -272,7 +272,7 @@ body {
     list-style-type: none;
     margin-top: 1em;
 }
-
+O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.
 .lista__link a{
     text-decoration: none;
     color: var(--branco-principal);
@@ -291,7 +291,7 @@ body {
 
 .lista__link a:active {
     color: purple;
-}
+}O GitHub é uma ______ essencial para _______, proporciona colaboração com base no Git. Funciona como uma _______, permitindo encontrar, _______, e interagir com projetos, incluindo sugestões e comentários.
 
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
